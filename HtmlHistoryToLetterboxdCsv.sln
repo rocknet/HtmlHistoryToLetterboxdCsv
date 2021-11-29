@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlHistoryToLetterboxdCsv", "HtmlHistoryToLetterboxdCsv\HtmlHistoryToLetterboxdCsv.csproj", "{93C27332-723E-4A34-8456-C89B718A10BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93C27332-723E-4A34-8456-C89B718A10BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C27332-723E-4A34-8456-C89B718A10BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C27332-723E-4A34-8456-C89B718A10BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C27332-723E-4A34-8456-C89B718A10BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {175783A7-8B76-4C0D-ABB2-73D278A3E1B4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "HtmlHistoryToLetterboxdCsv": {
+      "commandName": "Project",
+      "commandLineArgs": "--filename=Import/Netflix.html --historytype=NetflixDvd",
+      "workingDirectory": "."
+    }
+  }
+}
